@@ -1,4 +1,4 @@
-Hello, I have tried in multiple ways to deploy the frontend of my application,
+Hello teacher, I have tried in multiple ways to deploy the frontend of my application,
 my react app, to github but none of them seemed to work. I had to put it in a rar
 and I think this finally worked, sorry for the inconvenience 
 and thank you for your understanding.
